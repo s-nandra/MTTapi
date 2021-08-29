@@ -1,0 +1,14 @@
+C:\Users\satna\source\repos\MTT\MTTApi\bin\Debug\netcoreapp2.2\MTTApi.deps.json
+C:\Users\satna\source\repos\MTT\MTTApi\bin\Debug\netcoreapp2.2\MTTApi.runtimeconfig.json
+C:\Users\satna\source\repos\MTT\MTTApi\bin\Debug\netcoreapp2.2\MTTApi.runtimeconfig.dev.json
+C:\Users\satna\source\repos\MTT\MTTApi\bin\Debug\netcoreapp2.2\MTTApi.dll
+C:\Users\satna\source\repos\MTT\MTTApi\bin\Debug\netcoreapp2.2\MTTApi.pdb
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.csproj.CoreCompileInputs.cache
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.RazorAssemblyInfo.cache
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.RazorAssemblyInfo.cs
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.AssemblyInfoInputs.cache
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.AssemblyInfo.cs
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.RazorTargetAssemblyInfo.cache
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.dll
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.pdb
+C:\Users\satna\source\repos\MTT\MTTApi\obj\Debug\netcoreapp2.2\MTTApi.csprojAssemblyReference.cache
